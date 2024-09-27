@@ -30,6 +30,7 @@ else:
 3. Gioco del blackjack
 
 take 2 card, dealer reaveal 1 card and 1 remains hidden:
+
     if your points are >21:
         you lose;
     else:
